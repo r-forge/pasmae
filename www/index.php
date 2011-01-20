@@ -43,9 +43,15 @@ echo $contents; } ?>
 
 <!-- end of project description -->
 
+<h2>O que é PASMAE?</h2>
+
+<p>Protocolo para Ajuste e Seleção de Modelos de Abundância de Espécies
+</p>
+
+<!-- 
 <p> No content added. </p>
 
 <p> The <strong>project summary page</strong> you can find <a href="http://<?php echo $domain; ?>/projects/<?php echo $group_name; ?>/"><strong>here</strong></a>. </p>
-
+ -->
 </body>
 </html>
