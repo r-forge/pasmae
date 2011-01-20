@@ -1,0 +1,33 @@
+\name{quadrado}
+\alias{quadrado}
+%- Also NEED an '\alias' for EACH other topic documented here.
+\title{
+x
+}
+\description{
+x
+}
+\usage{
+quadrado(x)
+}
+%- maybe also 'usage' for other objects documented here.
+\arguments{
+  \item{x}{
+x
+}
+}
+\details{
+x
+}
+\value{
+x
+}
+\references{
+x
+}
+\author{
+cristiano
+}
+\note{
+x
+}
