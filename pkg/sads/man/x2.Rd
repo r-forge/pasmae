@@ -1,0 +1,33 @@
+\name{x2}
+\alias{x2}
+%- Also NEED an '\alias' for EACH other topic documented here.
+\title{
+x2
+}
+\description{
+x
+}
+\usage{
+x2(x)
+}
+%- maybe also 'usage' for other objects documented here.
+\arguments{
+  \item{x}{
+x
+}
+}
+\details{
+x
+}
+\value{
+x
+}
+\references{
+x
+}
+\author{
+x
+}
+\note{
+x
+}
